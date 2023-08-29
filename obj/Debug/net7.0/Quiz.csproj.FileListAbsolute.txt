@@ -1,0 +1,15 @@
+/Users/kadirdundar/Desktop/Quiz/bin/Debug/net7.0/Quiz
+/Users/kadirdundar/Desktop/Quiz/bin/Debug/net7.0/Quiz.deps.json
+/Users/kadirdundar/Desktop/Quiz/bin/Debug/net7.0/Quiz.runtimeconfig.json
+/Users/kadirdundar/Desktop/Quiz/bin/Debug/net7.0/Quiz.dll
+/Users/kadirdundar/Desktop/Quiz/bin/Debug/net7.0/Quiz.pdb
+/Users/kadirdundar/Desktop/Quiz/obj/Debug/net7.0/Quiz.csproj.AssemblyReference.cache
+/Users/kadirdundar/Desktop/Quiz/obj/Debug/net7.0/Quiz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kadirdundar/Desktop/Quiz/obj/Debug/net7.0/Quiz.AssemblyInfoInputs.cache
+/Users/kadirdundar/Desktop/Quiz/obj/Debug/net7.0/Quiz.AssemblyInfo.cs
+/Users/kadirdundar/Desktop/Quiz/obj/Debug/net7.0/Quiz.csproj.CoreCompileInputs.cache
+/Users/kadirdundar/Desktop/Quiz/obj/Debug/net7.0/Quiz.dll
+/Users/kadirdundar/Desktop/Quiz/obj/Debug/net7.0/refint/Quiz.dll
+/Users/kadirdundar/Desktop/Quiz/obj/Debug/net7.0/Quiz.pdb
+/Users/kadirdundar/Desktop/Quiz/obj/Debug/net7.0/Quiz.genruntimeconfig.cache
+/Users/kadirdundar/Desktop/Quiz/obj/Debug/net7.0/ref/Quiz.dll
